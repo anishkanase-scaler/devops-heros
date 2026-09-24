@@ -6,6 +6,7 @@ kubectl get
 
 Think of `kubectl get` as:
  
+
 > "Kubernetes, show me what is currently happening."
 
 ---
